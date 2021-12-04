@@ -1,0 +1,40 @@
+.stock-section {
+  width: 50%;
+  margin: auto;
+}
+
+.background-video {
+}
+
+body {
+  margin: 0;
+  background: url(assets/sm.jpg) no-repeat center fixed;
+  background-size: cover;
+  color: white;
+}
+
+.main-section {
+  margin: auto;
+  width: 40%;
+}
+
+input[type="number"] {
+  height: 2rem;
+  display: block;
+  margin: 5px;
+  width: 14rem;
+  border-radius: 3.3rem;
+}
+
+#check-btn {
+  margin: 30px;
+  background: yellow;
+  margin-left: 69px;
+  border-radius: 2rem;
+  height: 50px;
+  width: 8rem;
+}
+
+h1 {
+  background-color: red;
+}
